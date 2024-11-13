@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": "0860"
+    },
+    {
+      "id": "6868",
+      "username": "Kalaiarasan K",
+      "email": "kalaiarasankaruppaiya@gmail.com",
+      "password": "K@l@i123",
+      "confirmPassword": "",
+      "confirmpassword": "K@l@i123"
+    },
+    {
+      "id": "4b36",
+      "username": "Bhavishna",
+      "email": "727723eucs099@skcet.ac.in",
+      "password": "L@ish123",
+      "confirmPassword": "",
+      "confirmpassword": "L@ish123"
+    },
+    {
+      "id": "c696",
+      "username": "Nageshwari",
+      "email": "23cs096@skcet.ac.in",
+      "password": "N@gesh123",
+      "confirmPassword": "",
+      "confirmpassword": "N@gesh123"
+    },
+    {
+      "id": "c8b9",
+      "username": "Basheer",
+      "email": "Basheer@gmail.com",
+      "password": "B@sheer123",
+      "confirmPassword": "",
+      "confirmpassword": "B@sheer123"
+    },
+    {
+      "id": "a794",
+      "username": "Muruga",
+      "email": "Muruga@gmail.com",
+      "password": "Murug@123",
+      "confirmPassword": "",
+      "confirmpassword": "Murug@123"
+    },
+    {
+      "id": "ab5e",
+      "username": "Murali",
+      "email": "murali@gmail.com",
+      "password": "Mur@ki123",
+      "confirmPassword": "",
+      "confirmpassword": "Mur@li123"
+    },
+    {
+      "id": "2503",
+      "username": "Laish",
+      "email": "laish@gmail.com",
+      "password": "l@ish123",
+      "confirmPassword": "",
+      "confirmpassword": "L@ish@123"
+    },
+    {
+      "id": "0940",
+      "username": "Kishore",
+      "email": "kishore@gmail.com",
+      "password": "k@123",
+      "confirmPassword": "",
+      "confirmpassword": "k@123"
+    },
+    {
+      "id": "476d",
+      "username": "Jeeva",
+      "email": "jeeva@gmail.com",
+      "password": "j@123",
+      "confirmPassword": "",
+      "confirmpassword": "j@123"
+    },
+    {
+      "id": "b0d7",
+      "username": "bharath",
+      "email": "bharath@gmail.com",
+      "password": "b@123",
+      "confirmPassword": "",
+      "confirmpassword": "b@123"
+    }
+  ]
+}
